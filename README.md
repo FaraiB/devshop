@@ -1,0 +1,1 @@
+A simple online storefront developed as a part of Devpleno's Fullstack Master course.
